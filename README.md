@@ -34,13 +34,13 @@ To run the Simple CRUD API App locally, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies using npm:
-```bash
-npm install
-```
+  ```bash
+    npm install
+  ```
 4. Start the server:
-```bash
-npm start
-```
+  ```bash
+    npm start
+  ```
 5. The server should now be running locally. You can test the API endpoints using a tool like Postman or curl.
 
 ## Feedback and Contributions
